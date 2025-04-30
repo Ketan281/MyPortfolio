@@ -62,7 +62,7 @@ const Home = () => {
             />
           </Text>
           <Text textAlign={"start"} fontSize={"1.1rem"}>
-            I am an experienced full-stack developer with over 2 years of
+            I am an experienced full-stack developer with over 3 years of
             expertise in the MERN stack. While I have a foundational
             understanding of Web3 technologies, my strengths lie in wallet
             integration (MetaMask, WalletConnect) and smart contract integration
